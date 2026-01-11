@@ -1,4 +1,4 @@
-# gold
+# gold-price-tracker-nodejs
 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
@@ -19,8 +19,8 @@ A boilerplate of mean-5 with bootstrap
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/gold.git
-cd gold
+git clone https://github.com/amitdubeyup/gold-price-tracker-nodejs.git
+cd gold-price-tracker-nodejs
 
 # Install dependencies
 npm install
@@ -50,7 +50,7 @@ npm test
 ## 📁 Project Structure
 
 ```
-gold/
+gold-price-tracker-nodejs/
 ├── package.json
 ├── .env.example
 ├── README.md
